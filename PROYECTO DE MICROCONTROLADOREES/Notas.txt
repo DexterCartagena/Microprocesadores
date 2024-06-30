@@ -1,0 +1,9 @@
+- ejecutar programa proteus con privilegios de administrador.
+- descargar e instalar libreria simulino
+Instrucciones:
+http://www.skulltrap.co/2017/08/descargar-librerias-arduino-para.html
+Enlace descarga:
+https://drive.google.com/file/d/0B8xtMFpL-ixBM1luSEF3WjkxU00/view
+
+- Compilar código en programa arduino.
+- Enlazar compilado en proyecto proteus al arduino: nombre_archivo.standard.hex
